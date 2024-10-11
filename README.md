@@ -22,7 +22,7 @@ This project uses Python's basic functionalities along with the `pandas` library
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/bank-system.git
+   git clone https://github.com/Deni355/bank-system.git
 
 2. Navigate to the project directory:
    ```bash
